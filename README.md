@@ -23,7 +23,9 @@ Minha principais atividade como bolsista são:
 <li>Desenvolvimento de pesquisa na área de Teoria dos Grafos, relacionado a um problema de rotulação em grafos denominado Rotulação L(3,2,1).</li>
 </ul>
 
-Atualmente sou estagiário como Desenvolvedor back-end na Secretaria de Estado de Segurança Pública e Defesa Social, Ceará, Brasil. Minhas principais atividades
+Atualmente sou estágiário como desenvolvedor Flutter Dart/Firebase/GetX no núcleo de práticas de informática da Universidade Federal do Ceará Campus Quixadá. 
+
+Atualmente sou Desenvolvedor back-end na Secretaria de Estado de Segurança Pública e Defesa Social, Ceará, Brasil. Minhas principais atividades
 são:
 
 <li>Estudo de tecnologias utilizadas nas plataformas servidoras das soluções (Scala, Framework Play, Middleware Lagom, Java Spring Boot, entre outros)</li>
@@ -34,6 +36,7 @@ são:
 componentes propostos</li>
 <li> Participação em reuniões de acompanhamento do projeto </li>
 <li> Escrita de artigos científicos e relatório técnico ao final</li>
+
 
 ## Seja muito bem vindo(a) ao meu GitHub!
 
