@@ -1,8 +1,8 @@
 ## Olá 👋
 
-Meu nome é Davi Gomes Florencio e atualmente tenho 22 anos.
+Meu nome é Davi Gomes Florencio e atualmente tenho 23 anos.
 
-Desde 2017 curso a faculdade de Graduação em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
+Sou Técnico em informática e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
 
 ## Experiências Profissionais
 
@@ -16,17 +16,28 @@ principais atividades como estagiário eram:
 </ul>
 
 Entre 2019 e 2021 fui bolsista do Projeto PID (Programa de Iniciação a Docência).
-Minha principais atividade como bolsista são:
+Minhas principais atividades como bolsista são:
 
 <ul>
 <li>Monitoria para a disciplina QXD0041. </li>
 <li>Desenvolvimento de pesquisa na área de Teoria dos Grafos, relacionado a um problema de rotulação em grafos denominado Rotulação L(3,2,1).</li>
 </ul>
 
-Atualmente sou estágiário como desenvolvedor Flutter Dart/Firebase/GetX no núcleo de práticas de informática da Universidade Federal do Ceará Campus Quixadá. 
+De março a julho de 2022 fui estágiário como desenvolvedor Flutter Dart/Firebase/GetX no Núcleo de Práticas de Informática da Universidade Federal do Ceará Campus Quixadá. Minhas principais atividades eram:
 
-Atualmente sou Desenvolvedor back-end na Secretaria de Estado de Segurança Pública e Defesa Social, Ceará, Brasil. Minhas principais atividades
-são:
+<ul>
+<li>Desenvolvimento front-end e back-end</li>
+<li>odelagem e gerenciamento dos banco de dados</li>
+<li>Resolução de bugs</li>
+<li>Reprodução de telas elaboradas no Figma com fidelidade</li>
+<li>Uso de bibliotecas de gerenciamento de estados e injeção de dependências. Provider e Getx </li>
+<li>Uso de práticas de CI/CD (GitLab, Github Actions)</li>
+<li>Reuniões e planejamento de atividades</li>
+<li>Documentação de atividades</li>
+<li>Implementação de testes unitários, de widget e de integração</li>
+</ul>
+
+De março a novembro de 2020 fui desenvolvedor back-end JAVA na Secretaria de Estado de Segurança Pública e Defesa Social, Ceará, Brasil. Minhas principais atividades eram:
 
 <li>Estudo de tecnologias utilizadas nas plataformas servidoras das soluções (Scala, Framework Play, Middleware Lagom, Java Spring Boot, entre outros)</li>
 <li> Estudo sobre arquitetura de microsserviços</li>
@@ -36,6 +47,9 @@ são:
 componentes propostos</li>
 <li> Participação em reuniões de acompanhamento do projeto </li>
 <li> Escrita de artigos científicos e relatório técnico ao final</li>
+
+Atualmente sou Desenvolvedor FullStack na NEX2ME | Soluções em Análise de Dados e Data Storytelling.
+
 
 
 ## Seja muito bem vindo(a) ao meu GitHub!
