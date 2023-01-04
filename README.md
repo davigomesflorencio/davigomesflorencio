@@ -48,8 +48,7 @@ componentes propostos</li>
 <li> Participação em reuniões de acompanhamento do projeto </li>
 <li> Escrita de artigos científicos e relatório técnico ao final</li>
 
-Atualmente sou Desenvolvedor FullStack na NEX2ME | Soluções em Análise de Dados e Data Storytelling.
-
+De setembro a dezembro de 2022 fui desenvolvedor FullStack na NEX2ME | Soluções em Análise de Dados e Data Storytelling.
 
 
 ## Seja muito bem vindo(a) ao meu GitHub!
