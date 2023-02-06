@@ -2,54 +2,7 @@
 
 Meu nome é Davi Gomes Florencio e atualmente tenho 23 anos.
 
-Sou Técnico em informática e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
-
-## Experiências Profissionais
-
-Entre 2016 e 2017 fui estagiário como Desenvolvedor/suporte técnico no Instituto
-Federal de Educação, Ciência e Tecnologia do Ceará Campus Canindé. Minhas
-principais atividades como estagiário eram:
-
-<ul>
-<li>Auxiliar os funcionários em problemas tecnológicos</li>
-<li>Desenvolver um sistema de controle de chaves das salas do Campus.</li>
-</ul>
-
-Entre 2019 e 2021 fui bolsista do Projeto PID (Programa de Iniciação a Docência).
-Minhas principais atividades como bolsista são:
-
-<ul>
-<li>Monitoria para a disciplina QXD0041. </li>
-<li>Desenvolvimento de pesquisa na área de Teoria dos Grafos, relacionado a um problema de rotulação em grafos denominado Rotulação L(3,2,1).</li>
-</ul>
-
-De março a julho de 2022 fui estágiário como desenvolvedor Flutter Dart/Firebase/GetX no Núcleo de Práticas de Informática da Universidade Federal do Ceará Campus Quixadá. Minhas principais atividades eram:
-
-<ul>
-<li>Desenvolvimento front-end e back-end</li>
-<li>odelagem e gerenciamento dos banco de dados</li>
-<li>Resolução de bugs</li>
-<li>Reprodução de telas elaboradas no Figma com fidelidade</li>
-<li>Uso de bibliotecas de gerenciamento de estados e injeção de dependências. Provider e Getx </li>
-<li>Uso de práticas de CI/CD (GitLab, Github Actions)</li>
-<li>Reuniões e planejamento de atividades</li>
-<li>Documentação de atividades</li>
-<li>Implementação de testes unitários, de widget e de integração</li>
-</ul>
-
-De março a novembro de 2020 fui desenvolvedor back-end JAVA na Secretaria de Estado de Segurança Pública e Defesa Social, Ceará, Brasil. Minhas principais atividades eram:
-
-<li>Estudo de tecnologias utilizadas nas plataformas servidoras das soluções (Scala, Framework Play, Middleware Lagom, Java Spring Boot, entre outros)</li>
-<li> Estudo sobre arquitetura de microsserviços</li>
-<li> Estudo sobre tecnologias de containers</li>
-<li> Estudo sobre soluções de mensageria para comunicação/integração de sistemas distribuídos</li>
-<li> Implementação de componentes propostos pela equipe de análise do projeto, sob supervisão de coordenadores técnicos e coordenação do projetoCondução de testes unitários, de integração e escalabilidade nos
-componentes propostos</li>
-<li> Participação em reuniões de acompanhamento do projeto </li>
-<li> Escrita de artigos científicos e relatório técnico ao final</li>
-
-De setembro a dezembro de 2022 fui desenvolvedor FullStack na NEX2ME | Soluções em Análise de Dados e Data Storytelling.
-
+Sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
 
 ## Seja muito bem vindo(a) ao meu GitHub!
 
@@ -65,7 +18,7 @@ De setembro a dezembro de 2022 fui desenvolvedor FullStack na NEX2ME | Soluçõe
 </tr>
 </table>
 
-<a href="http://www.github.com/davigomesflorencio"><img src="https://activity-graph.herokuapp.com/graph?username=davigomesflorencio&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Davi Gomes Florencio Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=davigomesflorencio&theme=dracula)](https://github.com/davigomesflorencio/davigomesflorencio)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=davigomesflorencio&row=1)](https://github.com/davigomesflorencio/github-profile-trophy)
 
