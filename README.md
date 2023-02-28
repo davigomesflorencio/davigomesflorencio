@@ -6,7 +6,8 @@ Meu nome é Davi Gomes Florencio e atualmente tenho 23 anos. Sou Técnico em inf
 
 ## Seja muito bem vindo(a) ao meu GitHub!
 
-<p align="center">
+<div align="center">
+
 <table>
 <tr>
 <td>
@@ -18,7 +19,8 @@ Meu nome é Davi Gomes Florencio e atualmente tenho 23 anos. Sou Técnico em inf
 </td>
 </tr>
 </table>
-</p>
+
+</div>
 
 <div align="center">
 
