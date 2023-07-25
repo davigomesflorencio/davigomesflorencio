@@ -2,7 +2,7 @@
     <h1>Olá 👋</h1>
 </div>
 
-Meu nome é Davi Gomes Florencio e atualmente tenho 23 anos. Sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
+Meu nome é Davi Gomes Florencio e atualmente tenho 24 anos. Sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
 
 ## Seja muito bem vindo(a) ao meu GitHub!
 
@@ -28,9 +28,21 @@ Meu nome é Davi Gomes Florencio e atualmente tenho 23 anos. Sou Técnico em inf
 
 </div>
 
-[![Davi Gomes Florencio Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=davigomesflorencio&theme=dracula)](https://github.com/davigomesflorencio/davigomesflorencio)
+<!-- [![Davi Gomes Florencio Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=davigomesflorencio&theme=dracula)](https://github.com/davigomesflorencio/davigomesflorencio) -->
 
 ## Stack Principal
+
+### Mobile
+
+<p>
+<img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?style=for-the-badge&logo=dart&logoColor=white">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white">
+</p>
 
 ### Back-End
 
@@ -43,18 +55,6 @@ Meu nome é Davi Gomes Florencio e atualmente tenho 23 anos. Sou Técnico em inf
 <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-</p>
-
-### Mobile
-
-<p>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?style=for-the-badge&logo=dart&logoColor=white">
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white">
-<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
 ## Tecnologias que tenho conhecimento
@@ -80,12 +80,12 @@ Meu nome é Davi Gomes Florencio e atualmente tenho 23 anos. Sou Técnico em inf
 
 ## Como chegar até mim?
 
-<p>
+<div style="display: flex; justify-content: start;">
 
-<a href="davigomesflorencio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!-- <a href="davigomesflorencio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
 <a href="https://linkedin.com/in/davi-g-883b7a12a"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="https://www.instagram.com/xing.dev/"><img alt="Gmail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-</p>
+</div>
