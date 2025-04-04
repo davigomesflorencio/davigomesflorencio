@@ -2,7 +2,13 @@
     <h1>Olá 👋</h1>
 </div>
 
-Meu nome é Davi Gomes Florencio e atualmente tenho 24 anos. Sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
+Meu nome é Davi Gomes Florencio e atualmente tenho 25 anos. Sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
+
+Sou um desenvolvedor pleno de Android apaixonado por criar aplicativos inovadores e de alta qualidade. Minha experiência diversificada inclui habilidades sólidas em desenvolvimento de apps com Kotlin, Java e Flutter, permitindo-me criar soluções abrangentes e eficientes para diversas plataformas.
+
+Sou movido por desafios e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Minha abordagem colaborativa e comprometida me permite trabalhar em equipe de forma eficaz, contribuindo para o crescimento e sucesso do projeto.
+
+Se você está em busca de um desenvolvedor pleno Android apaixonado, com habilidades em Kotlin, Java, Flutter, Java Spring, Docker e teoria dos grafos, estou pronto para fazer a diferença em seu próximo projeto. Vamos conectar e discutir como posso contribuir para o sucesso de sua equipe e organização.
 
 ## Seja muito bem vindo(a) ao meu GitHub!
 
@@ -84,8 +90,12 @@ Meu nome é Davi Gomes Florencio e atualmente tenho 24 anos. Sou Técnico em inf
 
 <!-- <a href="davigomesflorencio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
-<a href="https://linkedin.com/in/davi-g-883b7a12a"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<a href="https://www.instagram.com/xing.dev/"><img alt="Gmail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<p align="left">
+  <a href="https://mail.google.com/mail/u/INBOX@EMAIL.COM/#all/davigomesflorencio@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/davi-g-883b7a12a" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/github/followers/davigomesflorencio?label=follow&style=social" alt="Github"/></a>
+</p>
 
 </div>
