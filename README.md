@@ -2,13 +2,18 @@
     <h1>Olá 👋</h1>
 </div>
 
-Meu nome é Davi Gomes Florencio e atualmente tenho 25 anos. Sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
+Meu nome é Davi Gomes Florencio e sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
 
-Sou um desenvolvedor pleno de Android apaixonado por criar aplicativos inovadores e de alta qualidade. Minha experiência diversificada inclui habilidades sólidas em desenvolvimento de apps com Kotlin, Java e Flutter, permitindo-me criar soluções abrangentes e eficientes para diversas plataformas.
+Sou um desenvolvedor pleno com uma sólida trajetória em Android e uma paixão por criar soluções inovadoras e de alta qualidade. Minha stack principal está no desenvolvimento mobile, com domínio de Kotlin, Java e Flutter, permitindo-me construir aplicativos robustos e eficientes para diversas plataformas.
 
-Sou movido por desafios e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Minha abordagem colaborativa e comprometida me permite trabalhar em equipe de forma eficaz, contribuindo para o crescimento e sucesso do projeto.
+Complementando minha atuação no mobile, possuo experiência significativa no desenvolvimento de Back-End, onde aplico meus conhecimentos para criar APIs RESTful e serviços escaláveis. Sou proficiente em Spring Web (Java) para construção de sistemas enterprise, e também em Python com os frameworks FastAPI e Flask, ideais para desenvolver APIs modernas e de alto desempenho.
 
-Se você está em busca de um desenvolvedor pleno Android apaixonado, com habilidades em Kotlin, Java, Flutter, Java Spring, Docker e teoria dos grafos, estou pronto para fazer a diferença em seu próximo projeto. Vamos conectar e discutir como posso contribuir para o sucesso de sua equipe e organização.
+Além do desenvolvimento puro, tenho competências em Análise de Dados, com experiência prática na utilização da biblioteca NeuroKit para processamento e análise de sinais fisiológicos, extraindo insights valiosos para aplicações em health tech e bem-estar.
+
+Minha base técnica é ampliada por conhecimentos em Docker para conteinerização e Teoria dos Grafos, que aplico na solução de problemas complexos de conectividade e otimização.
+
+Sou movido por desafios e estou em constante busca por aprendizado e aprimoramento. Minha abordagem colaborativa e comprometida me permite integrar equipes de forma eficaz, contribuindo para o crescimento e o sucesso dos projetos.
+Se você busca um profissional versátil, estou pronto para fazer a diferença em seu próximo projeto. Vamos conectar e discutir como posso agregar valor à sua equipe e organização.
 
 ## Seja muito bem vindo(a) ao meu GitHub!
 
