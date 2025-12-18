@@ -4,16 +4,27 @@
 
 Meu nome é Davi Gomes Florencio e sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
 
-Sou um desenvolvedor pleno com uma sólida trajetória em Android e uma paixão por criar soluções inovadoras e de alta qualidade. Minha stack principal está no desenvolvimento mobile, com domínio de Kotlin, Java e Flutter, permitindo-me construir aplicativos robustos e eficientes para diversas plataformas.
+Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em Kotlin, Java e Flutter. Tenho experiência sólida no desenvolvimento de aplicações nativas para Android e wearables, utilizando Jetpack Compose, MVVM, Retrofit e Samsung Health SDK, além de implementar práticas de CI/CD, monitoramento e análise de dados para garantir alta qualidade e performance.
 
-Complementando minha atuação no mobile, possuo experiência significativa no desenvolvimento de Back-End, onde aplico meus conhecimentos para criar APIs RESTful e serviços escaláveis. Sou proficiente em Spring Web (Java) para construção de sistemas enterprise, e também em Python com os frameworks FastAPI e Flask, ideais para desenvolver APIs modernas e de alto desempenho.
+Complemento minha atuação no mobile com desenvolvimento Back-End em Spring Boot (Java) e Python (FastAPI/Flask), criando APIs RESTful escaláveis e microsserviços com Docker e Kubernetes. Possuo conhecimentos em análise de dados com Python, processamento de sinais fisiológicos com NeuroKit e aplicação de Teoria dos Grafos em soluções de conectividade e otimização.
 
-Além do desenvolvimento puro, tenho competências em Análise de Dados, com experiência prática na utilização da biblioteca NeuroKit para processamento e análise de sinais fisiológicos, extraindo insights valiosos para aplicações em health tech e bem-estar.
+Principais projetos e experiências:
 
-Minha base técnica é ampliada por conhecimentos em Docker para conteinerização e Teoria dos Grafos, que aplico na solução de problemas complexos de conectividade e otimização.
+Insight Data Science Lab – Desenvolvimento de aplicativos Android e para Samsung Galaxy Watch com integração a plataformas de saúde, processamento de dados fisiológicos e arquitetura modular com Jetpack Compose.
 
-Sou movido por desafios e estou em constante busca por aprendizado e aprimoramento. Minha abordagem colaborativa e comprometida me permite integrar equipes de forma eficaz, contribuindo para o crescimento e o sucesso dos projetos.
-Se você busca um profissional versátil, estou pronto para fazer a diferença em seu próximo projeto. Vamos conectar e discutir como posso agregar valor à sua equipe e organização.
+NEX2ME – Atuação como Full Stack (React/TypeScript + Node.js) em aplicações web escaláveis, com integração de APIs, autenticação e CI/CD.
+
+Secretaria de Segurança Pública – Desenvolvimento de microsserviços com Spring Boot, Kafka, Docker e Kubernetes, além de arquitetura de API Gateway e CI/CD com GitLab/Jenkins.
+
+Núcleo de Práticas – UFC – Desenvolvimento full stack com Flutter, gerenciamento de estado (Provider/GetX), testes e CI/CD.
+
+Sou movido por desafios técnicos e inovação, sempre em busca de aprendizado contínuo e colaboração em equipe. Aberto a oportunidades que valorizem versatilidade, impacto e crescimento conjunto.
+
+📧 Contato:
+Email: davigomesflorencio@gmail.com
+Telefone: (88) 99986-3735
+GitHub: https://github.com/davigomesflorencio
+LinkedIn: www.linkedin.com/in/davi-g-883b7a12a
 
 ## Seja muito bem vindo(a) ao meu GitHub!
 
