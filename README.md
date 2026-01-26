@@ -2,11 +2,35 @@
     <h1>Olá 👋</h1>
 </div>
 
-Meu nome é Davi Gomes Florencio e atualmente tenho 25 anos. Sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
+Meu nome é Davi Gomes Florencio e sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
 
-Sou um desenvolvedor pleno de Android apaixonado por criar aplicativos inovadores e de alta qualidade. Minha experiência diversificada inclui habilidades sólidas em desenvolvimento de apps com Kotlin, Java e Flutter, permitindo-me criar soluções abrangentes e eficientes para diversas plataformas.
+Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em Kotlin, Java e Flutter. Tenho experiência sólida no desenvolvimento de aplicações nativas para Android e wearables, utilizando Jetpack Compose, MVVM, Retrofit e Samsung Health SDK, além de implementar práticas de CI/CD, monitoramento e análise de dados para garantir alta qualidade e performance.
 
+<<<<<<< HEAD
 ## 📊 Seja muito bem vindo(a) ao meu GitHub!
+=======
+Complemento minha atuação no mobile com desenvolvimento Back-End em Spring Boot (Java) e Python (FastAPI/Flask), criando APIs RESTful escaláveis e microsserviços com Docker e Kubernetes. Possuo conhecimentos em análise de dados com Python, processamento de sinais fisiológicos com NeuroKit e aplicação de Teoria dos Grafos em soluções de conectividade e otimização.
+
+Principais projetos e experiências:
+
+Insight Data Science Lab – Desenvolvimento de aplicativos Android e para Samsung Galaxy Watch com integração a plataformas de saúde, processamento de dados fisiológicos e arquitetura modular com Jetpack Compose.
+
+NEX2ME – Atuação como Full Stack (React/TypeScript + Node.js) em aplicações web escaláveis, com integração de APIs, autenticação e CI/CD.
+
+Secretaria de Segurança Pública – Desenvolvimento de microsserviços com Spring Boot, Kafka, Docker e Kubernetes, além de arquitetura de API Gateway e CI/CD com GitLab/Jenkins.
+
+Núcleo de Práticas – UFC – Desenvolvimento full stack com Flutter, gerenciamento de estado (Provider/GetX), testes e CI/CD.
+
+Sou movido por desafios técnicos e inovação, sempre em busca de aprendizado contínuo e colaboração em equipe. Aberto a oportunidades que valorizem versatilidade, impacto e crescimento conjunto.
+
+📧 Contato:
+Email: davigomesflorencio@gmail.com
+Telefone: (88) 99986-3735
+GitHub: https://github.com/davigomesflorencio
+LinkedIn: www.linkedin.com/in/davi-g-883b7a12a
+
+## Seja muito bem vindo(a) ao meu GitHub!
+>>>>>>> 87842bf31c90dfb39658ef9831bfebf870f1f22f
 
 <div align="center">
 
