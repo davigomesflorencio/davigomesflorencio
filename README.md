@@ -6,31 +6,42 @@ Meu nome é Davi Gomes Florencio e atualmente tenho 25 anos. Sou Técnico em inf
 
 Sou um desenvolvedor pleno de Android apaixonado por criar aplicativos inovadores e de alta qualidade. Minha experiência diversificada inclui habilidades sólidas em desenvolvimento de apps com Kotlin, Java e Flutter, permitindo-me criar soluções abrangentes e eficientes para diversas plataformas.
 
-Sou movido por desafios e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Minha abordagem colaborativa e comprometida me permite trabalhar em equipe de forma eficaz, contribuindo para o crescimento e sucesso do projeto.
-
-Se você está em busca de um desenvolvedor pleno Android apaixonado, com habilidades em Kotlin, Java, Flutter, Java Spring, Docker e teoria dos grafos, estou pronto para fazer a diferença em seu próximo projeto. Vamos conectar e discutir como posso contribuir para o sucesso de sua equipe e organização.
-
-## Seja muito bem vindo(a) ao meu GitHub!
+## 📊 Seja muito bem vindo(a) ao meu GitHub!
 
 <div align="center">
 
 <table>
 <tr>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davigomesflorencio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davigomesflorencio" width=300 />
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=20430111" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=20430111&image_size=auto&color_scheme=dark" width="500" height="auto">
+    <img alt="Dashboard stats of @davigomesflorencio" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=20430111&image_size=auto&color_scheme=dark" width="500" height="auto">
+  </picture>
+</a>
+
 </td>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=davigomesflorencio&show_icons=true&locale=en&theme=dracula" alt="davigomesflorencio" width=400 />
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=20430111&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=20430111&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto">
+    <img alt="Contribution Time Distribution of @davigomesflorencio" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=20430111&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto">
+  </picture>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davigomesflorencio&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davigomesflorencio" width=500 />
+</td>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=davigomesflorencio&show_icons=true&locale=en&theme=dracula" alt="davigomesflorencio" width=500 />
 
 </td>
 </tr>
+
 </table>
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=davigomesflorencio&row=1&theme=dracula&column=-1)](https://github.com/davigomesflorencio/github-profile-trophy)
 
 </div>
 
