@@ -8,6 +8,8 @@ Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em 
 
 ## 📊 Seja muito bem vindo(a) ao meu GitHub!
 
+![My GitHub Game](game.gif)
+
 <div align="center">
 
 <table>
