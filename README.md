@@ -33,6 +33,11 @@ Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em 
 </a>
 </td>
 </tr>
+<tr>
+<td>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davigomesflorencio&theme=tokyonight" /></a>
+</td>
+</tr>
 
 </table>
 
