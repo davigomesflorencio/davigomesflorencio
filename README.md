@@ -15,16 +15,14 @@ Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em 
 <table>
 <tr>
 <td>
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=20430111&period=all_times" target="_blank" style="display: block" align="center">
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davigomesflorencio&theme=tokyonight" /></a>
+<!-- <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=20430111&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=20430111&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto">
     <img alt="Contribution Time Distribution of @davigomesflorencio" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=20430111&period=all_times&image_size=auto&color_scheme=dark" width="500" height="auto">
   </picture>
-</a>
+</a> -->
 </td>
-</tr>
-<tr>
 <td>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davigomesflorencio&theme=tokyonight" /></a>
 </td>
