@@ -15,15 +15,6 @@ Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em 
 <table>
 <tr>
 <td>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=20430111" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=20430111&image_size=auto&color_scheme=dark" width="500" height="auto">
-    <img alt="Dashboard stats of @davigomesflorencio" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=20430111&image_size=auto&color_scheme=dark" width="500" height="auto">
-  </picture>
-</a>
-
-</td>
-<td>
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=20430111&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
