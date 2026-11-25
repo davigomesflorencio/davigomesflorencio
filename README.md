@@ -2,9 +2,18 @@
     <h1>Olá 👋</h1>
 </div>
 
-Meu nome é Davi Gomes Florencio e sou Técnico em informática na EEEP Capelão Frei Orlando e Graduado em Ciência da Computação na Universidade Federal do Ceará Campus Quixadá
+Meu nome é Davi Gomes Florencio, sou Técnico em Informática pela EEEP Capelão Frei Orlando e Bacharel em Ciência da Computação pela Universidade Federal do Ceará (Campus Quixadá).
 
-Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em Kotlin, Java e Flutter. Tenho experiência sólida no desenvolvimento de aplicações nativas para Android e wearables, utilizando Jetpack Compose, MVVM, Retrofit e Samsung Health SDK, além de implementar práticas de CI/CD, monitoramento e análise de dados para garantir alta qualidade e performance.
+Desenvolvedor Mobile Pleno com 5+ anos de experiência na criação, modernização e arquitetura de apps Android nativos, Wearables, iOS e multiplataforma (Kotlin, Jetpack Compose, Kotlin Multiplatform, Java e Flutter/Dart) em larga escala. Aplico MVVM, MVI, Clean Architecture, SOLID e Clean Code, com foco em qualidade (+80% de cobertura de testes), segurança (mTLS/certificate pinning), metodologias ágeis, CI/CD e uso de IA para acelerar entregas. Também tenho vivência em Back-End (Java Spring Boot, WebFlux, Scala, Python), Kafka, Docker/Kubernetes, análise de sinais fisiológicos (NeuroKit) e Teoria dos Grafos.
+
+## 💼 Experiência
+
+- **Desenvolvedor Mobile Android — FCamara (Casas Bahia)** · mar/2026 – atual: migração de RxJava para Coroutines/Flow (+500 arquivos), interoperabilidade XML/Compose, modularização (−40k linhas legadas), migração para Android API 37, testFixtures/Koin, certificate pinning e mTLS.
+- **Desenvolvedor Mobile Pleno — Insight Data Science Lab** · mar/2023 – dez/2025: apps Android e Samsung Galaxy Watch (projeto Samsung AI4Wellness) com Kotlin, Compose e KMP, Samsung Health Sensor SDK, 90% de cobertura de testes e análise de sinais com NeuroKit.
+- **Desenvolvedor Full Stack — Nex2me** · set/2022 – dez/2022: React, TypeScript, Node.js, PostgreSQL/MongoDB e GitHub Actions.
+- **Desenvolvedor Back-End — SSPDS-CE** · mar/2022 – nov/2022: microsserviços com Scala, Spring Boot, WebFlux, Kafka, Docker e Kubernetes.
+- **Desenvolvedor Flutter (Estagiário) — NPI UFC Quixadá** · mar/2022 – jul/2022.
+- **Monitor de Projeto e Análise de Algoritmos — UFC** · ago/2020 – jan/2022.
 
 ## 📊 Seja muito bem vindo(a) ao meu GitHub!
 
@@ -50,6 +59,7 @@ Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em 
   <img src="https://skillicons.dev/icons?i=dart" height="40" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" />
    <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" />
 </div>
   </td>
   <td>
@@ -67,6 +77,10 @@ Desenvolvedor Pleno com foco em Android e tecnologias móveis, especializado em 
   <img src="https://skillicons.dev/icons?i=postgres" height="40" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" />
 </div>
   </td>
 </tr>
